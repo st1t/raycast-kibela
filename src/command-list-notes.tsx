@@ -8,7 +8,7 @@ export default function CommandListNotes() {
             {notes.map(value => (
                 <List.Item
                     key={value[0]}
-                    icon={{source: {light: "kibela-icon.png", dark: "kibela-icon.png"}}}
+                    icon={{source: {light: "lion-icon.png", dark: "lion-icon.png"}}}
                     title={"【" + value[3] + "】" + value[1]}
                     actions={
                         <ActionPanel>

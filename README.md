@@ -26,7 +26,7 @@ $ npm install && npm run dev
 
 ### settings
 
-![](assets/kibela-setting.png)
+![](assets/kibela-settings.png)
 
 - Team
     - Set the team name for Kibela. Usually, the URL part is used. If it is https://changeme.kibe.la, set changeme.

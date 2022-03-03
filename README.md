@@ -2,7 +2,7 @@
 
 This is the [Kibela](https://kibe.la/) extension plugin for Raycast.
 
-![](assets/list-notes.png)
+![](assets/top.gif)
 
 # Install
 

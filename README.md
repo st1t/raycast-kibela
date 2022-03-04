@@ -1,6 +1,6 @@
 # Raycast Kibela
 
-This is the [Kibela](https://kibe.la/) extension plugin for Raycast.
+This is the [Kibela](https://kibe.la/) extension plugin for [Raycast](https://www.raycast.com/).
 
 ![](assets/top.gif)
 

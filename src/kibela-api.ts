@@ -8,7 +8,7 @@ const { team: TEAM, token: TOKEN, query_limit: QUERY_LIMIT } = getPreferenceValu
 const API_ENDPOINT = `https://${TEAM}.kibe.la/api/v1`;
 const USER_AGENT = `${name}`;
 
-// https://hamee.kibe.la/api/console
+// https://XXXX.kibe.la/api/console
 const query = gql`
 query GetNotes {
   notes(first: ${QUERY_LIMIT}, orderBy: {field: CONTENT_UPDATED_AT, direction: DESC}) {

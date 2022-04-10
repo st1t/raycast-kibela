@@ -12,6 +12,8 @@ https://support.kibe.la/hc/ja/articles/360036089931-API%E3%82%A2%E3%82%AF%E3%82%
 
 ## Build Raycast command
 
+If you want to run this plugin from source code, use 'npm run dev' instead of 'npm run build'.
+
 ```shell
 $ git clone git@github.com:st1t/raycast-kibela.git
 $ cd raycast-kibela/
